@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="https://lint4382.github.io/glotzopoeia-blog/rss" rel="self" type="application/rss+xml" />
+<title>Glotzopoeia</title>
+<link>https://lint4382.github.io/glotzopoeia-blog/</link>
+<description>Conlanging app devlog</description>
+<item>
+<guid>https://lint4382.github.io/glotzopoeia-blog/posts/2026-05-18</guid>
+<title>Introducing Glotzopoeia</title>
+<link>https://lint4382.github.io/glotzopoeia-blog/posts/2026-05-18</link>
+<description>What am I doing? Who is this for? Find out NOW!</description>
+<pubDate>Tue, 19 May 2026 20:59:07 GMT</pubDate>
+</item>
+</channel>
+</rss>
