@@ -1,0 +1,33 @@
+.post p {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.post ul {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	padding-left: 40px;
+	list-style-type: disc;
+}
+
+.post h1 {
+	font-size: 2em;
+	margin-top: 0.67em;
+	margin-bottom: 0.67em;
+}
+
+.post h2 {
+	font-size: 1.5em;
+	margin-top: 0.83em;
+	margin-bottom: 0.83em;
+}
+
+.post details {
+	padding: 24px;
+	border: solid 1px black;
+}
+
+.post a {
+	color: blue;
+	text-decoration: underline;
+}
