@@ -1,3 +1,16 @@
+@font-face {
+	font-family: 'linja lipamanka';
+	src: url('/linjalipamanka-normal.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@import "tailwindcss";
+
+@theme {
+	--font-tp: 'linja lipamanka';
+}
+
 .post p {
 	margin-top: 1em;
 	margin-bottom: 1em;

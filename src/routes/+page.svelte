@@ -17,7 +17,7 @@
 		<a class="text-red-500" href={resolve("/rss")}>rss</a> )
 	</div>
 
-	<div>
+	<div class="flex flex-col gap-4">
 		{#each sortedPosts as [slug, post]}
 			<a href={resolve("/posts/[slug]", { slug })} class="block border p-5">
 				<div class="mb-2 flex justify-between">
